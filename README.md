@@ -19,7 +19,7 @@ Tanks Multiplayer Game is a fun and interactive arcade game developed using Unit
   Windows or macOS operating system
   
 **Installation**
-  Clone the repository using git clone https://github.com/your-username/Tanks-Multiplayer-Game.git
+  Clone the repository using git clone https://github.com/nmihaylov96/Tanks-Multiplayer-Game.git
   Open the project in Unity3D Engine
   Install the PhotonPun engine and configure the PhotonID
   Build and run the game
